@@ -1,2 +1,4 @@
-# app-dev
-My first repository.
+# My Favorite Series
+## The Walking Dead
+## Money Heist
+## The Breaking Bad
